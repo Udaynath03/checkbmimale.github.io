@@ -1,6 +1,6 @@
 ### **Check BMI Male: Your Comprehensive Guide to Understanding BMI for Men**  
 
-Maintaining a healthy weight is crucial for overall well-being, and one of the most effective tools to assess your weight status is the **Body Mass Index (BMI)**. For men, understanding BMI is essential in tracking fitness goals, identifying health risks, and improving lifestyle choices. If you're looking for a straightforward and reliable way to check your BMI, visit [Check BMI Male](https://github.com/Udaynath03/checkbmimale.github.io/), a handy online resource designed to make the process effortless.  
+Maintaining a healthy weight is crucial for overall well-being, and one of the most effective tools to assess your weight status is the **Body Mass Index (BMI)**. For men, understanding BMI is essential in tracking fitness goals, identifying health risks, and improving lifestyle choices. If you're looking for a straightforward and reliable way to check your BMI, visit [Check BMI Male](https://udaynath03.github.io/checkbmimale.github.io/), a handy online resource designed to make the process effortless.  
 
 ---
 
@@ -64,10 +64,10 @@ BMI can help men set realistic and personalized fitness objectives based on thei
 
 ### **How to Check BMI for Men?**  
 
-Checking your BMI is simple and can be done in just a few steps. For an easy and reliable tool, visit [Check BMI Male](https://github.com/Udaynath03/checkbmimale.github.io/). This website allows you to quickly calculate your BMI by entering your weight and height.  
+Checking your BMI is simple and can be done in just a few steps. For an easy and reliable tool, visit [Check BMI Male](https://udaynath03.github.io/checkbmimale.github.io/). This website allows you to quickly calculate your BMI by entering your weight and height.  
 
 #### **Steps to Use Check BMI Male**  
-1. Visit [Check BMI Male](https://github.com/Udaynath03/checkbmimale.github.io/).  
+1. Visit [Check BMI Male](https://udaynath03.github.io/checkbmimale.github.io/).  
 2. Input your weight (in kilograms) and height (in meters or feet).  
 3. Click the “Calculate” button.  
 4. View your BMI value along with the corresponding weight category.  
@@ -123,6 +123,6 @@ If your BMI falls outside the “Normal weight” range, there are steps you can
 
 ### **Conclusion**  
 
-Checking your BMI is a quick and effective way to assess your health and weight status. For men, understanding and maintaining a healthy BMI is vital for reducing the risk of chronic diseases and improving overall well-being. Use tools like [Check BMI Male](https://github.com/Udaynath03/checkbmimale.github.io/) to calculate your BMI and take the first step toward a healthier lifestyle.  
+Checking your BMI is a quick and effective way to assess your health and weight status. For men, understanding and maintaining a healthy BMI is vital for reducing the risk of chronic diseases and improving overall well-being. Use tools like [Check BMI Male](https://udaynath03.github.io/checkbmimale.github.io/) to calculate your BMI and take the first step toward a healthier lifestyle.  
 
 Start today—your health is worth it!  
